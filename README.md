@@ -22,5 +22,10 @@ To start the server,
 
 The server will start at port 8080. You can use UserResourceClient to interact with it. You can also get into admin interface by going to http://localhost:8081
 
+References
+==========
+
+https://www.baeldung.com/java-apache-derby
+
 
 
